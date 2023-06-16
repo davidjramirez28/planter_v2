@@ -1,0 +1,12 @@
+.headerContainer {
+  margin: 30px 15px 30px 15px;
+  padding-top: 50px;
+}
+
+.title {
+  font-family: "BananaPastry";
+  font-size: 80px;
+  color: gray;
+  margin: auto;
+  -webkit-text-stroke: 1px black;
+}

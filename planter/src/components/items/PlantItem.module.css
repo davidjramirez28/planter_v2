@@ -1,0 +1,15 @@
+.plantItem {
+  font-family: "Comfortaa";
+  border: 1px solid black;
+  border-radius: 25px;
+  margin: 5px;
+  background-color: #d1d4d1;
+}
+.plant_latinName {
+  font-weight: bold;
+  font-size: 30px;
+  margin: 15px;
+}
+.additionalContent {
+  margin: 5px;
+}
